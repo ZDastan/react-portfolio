@@ -5,12 +5,14 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+   
   }
   .portfolio .portfolioTitle {
     text-align: center;
     color: #3e497a;
     font-size: 60px;
     font-weight: bolder;
+
   }
   
   .portfolioList {
@@ -50,6 +52,7 @@
   .portfolioItem h1 {
     font-size: 25px;
   }
+
   
   @media only screen and (max-width: 1300px) {
     .portfolioList {

@@ -2,6 +2,7 @@ import React from 'react'
 import "../styles/Resume.css";
 
 function Resume() {
+  const url ="https://profile.indeed.com/p/zehrad-5dbt85o"
   return (
     <div className="skills">
     <h1> Skills</h1>
@@ -24,7 +25,13 @@ function Resume() {
         <h2>Languages</h2>
         <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
       </li>
+      <li className="item">
+        <h2>Languages</h2>
+        <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
+      </li>
+      <a href={url}>Resume</a>
     </ol>
+    <br></br>
   </div>
   )
 }

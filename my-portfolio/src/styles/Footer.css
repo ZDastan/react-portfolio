@@ -20,6 +20,12 @@
     color: white;
   }
   
+  .socialMedia svg:hover {
+    box-shadow: 0px 3px 15px white;
+    transition: 0.3s ease-in;
+   
+  }
+
   @media only screen and (max-width: 600px) {
     .footer svg {
       font-size: 50px;
