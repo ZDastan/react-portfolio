@@ -24,7 +24,9 @@ function Navbar() {
           <MenuIcon/>
         </button>
         </div>
+      
         <div className="links">
+        <div className="logo">Zehra Dastan</div>
             <Link to="/">About Me</Link>
             <Link to="/portfolio">Portfolio</Link>
             <Link to="/contact">Contact</Link>
