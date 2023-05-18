@@ -19,6 +19,14 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/resume" element={<Resume />} />
       </Routes>
+      <div className="home">
+      <div className="about">
+        <h2> Hi, My Name is Zehra</h2>
+        <div className="prompt">
+          <p>A software developer with a passion for learning and creating.</p>
+        </div>
+      </div>
+      </div>
       <Footer />
      </Router>
     </div>
