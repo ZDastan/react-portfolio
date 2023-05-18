@@ -19,7 +19,7 @@ To use the application from the command line (after installing dependencies):
 
 Open the root directory of the repository in your terminal or bash. Bundle the front-end code by entering npm run build in the command line. Start the server by entering npm run start in the command line.
 
-
+![alt text](./src/assets/page5.png)
 ![alt text](./src/assets/page1.png)
 ![alt text](./src/assets/page2.png)
 ![alt text](./src/assets/page3.png)
